@@ -1,8 +1,8 @@
 # -Blinkit-Sales-Performance-Dashboard---Power-BI
-Overview
+### Overview
 This Power BI dashboard provides a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution. It is designed to surface key business insights and highlight opportunities for optimization across products, outlets, and geographies.
 
-Key Performance Indicators (KPIs)
+### Key Performance Indicators (KPIs)
 
 KPI                   Description
 
@@ -14,7 +14,7 @@ Number of Items:      Total count of distinct items sold
 
 Average Rating:       Average customer rating across items sold
 
-Dashboard Sections
+### Dashboard Sections
 1. Total Sales by Fat Content
 Analyzes how fat content (Low Fat vs Regular) impacts total sales, alongside Average Sales, Number of Items, and Average Rating.
 
@@ -36,7 +36,7 @@ Visualizes the geographic distribution of sales across Tier 1, Tier 2, and Tier 
 7. All Metrics by Outlet Type
 A consolidated view of all four KPIs (Total Sales, Average Sales, Number of Items, Average Rating) broken down by outlet type (e.g., Grocery Store, Supermarket).
 
-Key Findings
+### Key Findings
 
 Overall performance: The business generated $1.20M in total sales across 8,523 items, with an average sale value of $141 and an average customer rating of 3.9 / 5.
 
